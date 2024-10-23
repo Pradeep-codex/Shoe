@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.section-css{
+    @apply flex sm:flex-row flex-col bg-black; 
+}
